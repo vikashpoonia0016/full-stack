@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/app/store.ts","./src/features/drafts/draftsslice.ts","./src/features/platform/platformslice.ts","./src/features/posts/postsslice.test.ts","./src/features/posts/postsslice.ts"],"version":"5.9.3"}
